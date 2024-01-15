@@ -7,4 +7,11 @@ function msg(){
     ade.style.display = 'block', ola.style.display = 'none';
 }
 
-    
+var dunie = document.getElementById("spn")
+var ahmad = document.getElementById("pp")
+function ans(){
+    ahmad.style.display = 'block', dunie.style.display = 'none';
+
+    window.reload()
+}
+   
